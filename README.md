@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi I'm Xavier 👋
 
-<!--
-**AkinXavier/akinxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Junior Software Developer based in the United Kingdom
 
-Here are some ideas to get you started:
+I have experience in Full Stack Development and possess a curious mind
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In particular I am drawn to machine learning and its many uses and applications in the real world
+
+Coming from a JavaScript background, I have recently been improving my skills in Python
+
+📨 Get in Touch
+Email: olisenedumx13@gmail.com
+Linkedin: linkedin.com/in/olisenedum-forsyth-nduka-3a973228a/
